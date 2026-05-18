@@ -126,41 +126,34 @@ Always building something new. Follow along for the next big project drop.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=58a6ff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=github_dark&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=e6edf3&text_color=8b949e" height="165"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true)
-
-</div>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=tokyo-night&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=github-dark-blue&hide_border=false&stroke=30363d&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=e6edf3&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e" />
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## 📬 Let's Connect
 
-<div align="center">
+> I'm always open to discussing projects, ideas, or opportunities.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/YOUR-USERNAME)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
-
-</div>
+- 🔗 **LinkedIn** → [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- 📧 **Email** → [your.email@example.com](mailto:your.email@example.com)
+- ✍️ **Blog** → [dev.to/YOUR-USERNAME](https://dev.to/YOUR-USERNAME)
+- 🌐 **Portfolio** → [your-portfolio.com](https://your-portfolio.com)
 
 ---
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile+Views&color=0e75b6&style=flat)
-⭐️ **If you like what I build, consider starring my repos!**
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile+Views&color=58a6ff&style=flat&labelColor=0d1117)
+
+*Thanks for stopping by — feel free to explore my work and reach out!*
 
 </div>
