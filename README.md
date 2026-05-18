@@ -143,10 +143,10 @@ Always building something new. Follow along for the next big project drop.
 
 > I'm always open to discussing projects, ideas, or opportunities.
 
-- 🔗 **LinkedIn** → [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- 📧 **Email** → [your.email@example.com](mailto:your.email@example.com)
+- 🔗 **LinkedIn** → [linkedin.com/in/your-profile](https://linkedin.com/in/md-arman760)
+- 📧 **Email** → [your.email@example.com](info.mdarmanhemal@gmail.com)
 - ✍️ **Blog** → [dev.to/YOUR-USERNAME](https://dev.to/YOUR-USERNAME)
-- 🌐 **Portfolio** → [your-portfolio.com](https://your-portfolio.com)
+- 🌐 **Portfolio** → [your-portfolio.com](https://my-portfolio.com)
 
 ---
 
