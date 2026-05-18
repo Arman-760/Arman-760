@@ -127,7 +127,7 @@ Always building something new. Follow along for the next big project drop.
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=58a6ff" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=github_dark&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=e6edf3&text_color=8b949e" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FulStack_EMS&layout=compact&theme=github_dark&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=e6edf3&text_color=8b949e" height="165"/>
 
 </div>
 
